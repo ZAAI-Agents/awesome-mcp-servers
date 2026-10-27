@@ -49,6 +49,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [ReadFa.com](https://readfa.com) — Cross-platform MCP server directory with SkillScore quality rankings
 
 ## Legend
 
